@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A119830892\\Downloads\\Ejemplos\\Ejemplos\\Ejemplos\\Ejemplos.csproj",
+      "projectUniqueName": "C:\\Users\\A119830892\\Desktop\\Ejemplos\\Ejemplos\\Ejemplos\\Ejemplos.csproj",
       "projectName": "Ejemplos",
-      "projectPath": "C:\\Users\\A119830892\\Downloads\\Ejemplos\\Ejemplos\\Ejemplos\\Ejemplos.csproj",
+      "projectPath": "C:\\Users\\A119830892\\Desktop\\Ejemplos\\Ejemplos\\Ejemplos\\Ejemplos.csproj",
       "packagesPath": "C:\\Users\\A119830892\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A119830892\\Downloads\\Ejemplos\\Ejemplos\\Ejemplos\\obj\\",
+      "outputPath": "C:\\Users\\A119830892\\Desktop\\Ejemplos\\Ejemplos\\Ejemplos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A119830892\\AppData\\Roaming\\NuGet\\NuGet.Config",
